@@ -1,0 +1,90 @@
+.Tache
+{
+    height: 30px;
+    width: 300px;
+    border-radius: 8px;
+    padding-left: 10px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+    font-family: arial;
+    font-size: 14px;
+    background-color:rgb(248, 228, 192);
+}
+.date
+{
+    width: 170px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(255, 226, 249);
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.add_tache
+{
+  width: 80px;
+  height: 30px;
+  background-color: rgb(166, 255, 162);
+  border-width: 1px;
+  border-style: dashed;
+  border-color: black;
+  border-radius: 8px;
+  transition: background-color 1s;
+  cursor: pointer;
+  
+}
+.add_tache:hover
+{
+    background-color: rgb(10, 253, 2);
+}
+
+.display
+{
+    background-color: rgb(215, 215, 255);
+    width: 1000px;
+    border-width: 1px;
+  border-style: dashed;
+  border-color: black;
+  border-radius: 10px;
+  font-family: arial;
+  padding-left: 20px;
+    
+}
+.T,.ss
+{
+    border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  
+}
+.T
+{
+    background-color: antiquewhite;
+    margin-left: 10px;
+}
+.ss
+{
+    background-color: rgb(247, 247, 150);
+    font-size: 12px;
+    margin-left: 50px;
+
+}
+
+.D
+{
+ background-color: rgb(255, 103, 103);
+ color: white;
+ border: none;
+ border-radius: 5px;
+ width: 80px;
+ height: 30px;
+ margin-left: 80px;
+ font-weight: bold;
+ cursor: pointer;
+}
